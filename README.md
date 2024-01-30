@@ -22,3 +22,10 @@ OOP graphics baised calculater with 25 working buttons with logic
 OOP graphics based screensaver, lines that randomly go around the screen and if they touch a wall they are put a a random point on the screen.
 ![Calculator](https://github.com/Jameslassen1/programing1b2/blob/main/images/Screensaver.png)
 [SourseCode](https://github.com/Jameslassen1/programing1b2/blob/main/src/screensaver.zip)
+
+### Etch a scetch
+OOP grapics using the arrow keys to move the line around to create a picture.
+![etch a scetch](https://github.com/Jameslassen1/programing1b2/blob/main/images/EAS.png)
+[SourseCode](https://github.com/Jameslassen1/programing1b2/blob/main/src/etchASketch.zip)
+
+
