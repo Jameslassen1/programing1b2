@@ -28,4 +28,8 @@ OOP grapics using the arrow keys to move the line around to create a picture.
 ![etch a scetch](https://github.com/Jameslassen1/programing1b2/blob/main/images/EAS.png)
 [SourseCode](https://github.com/Jameslassen1/programing1b2/blob/main/src/etchASketch.zip)
 
+### Random word Deffenition genterator
+code that showcases colections randoms and strings to create reandom deffenitions for random words.
+![etch a scetch](https://github.com/Jameslassen1/programing1b2/blob/main/images/WordDef.png)
+[SourseCode](https://github.com/Jameslassen1/programing1b2/blob/main/src/main.py)
 
