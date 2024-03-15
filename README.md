@@ -2,7 +2,8 @@
 
 ## Certifications
 
-## Group Progect
+## Group Project
+[Click for points](https://github.com/Jameslassen1/Clickforpoints.git)
 
 ## individual projects
 
